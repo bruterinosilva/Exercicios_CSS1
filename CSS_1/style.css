@@ -1,0 +1,31 @@
+.div_a {
+    width:500px; 
+    height:500px; 
+    background: #000000;
+}
+
+.div_b {
+    width:50%; 
+    height:50%; 
+    background: #7fffd4;
+}
+
+.paragrafo {
+    color: #0000ff; 
+    background: #ffff00; 
+    font-size: 50px; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-weight: bold;
+}
+
+.div_c {
+    width:50vw; 
+    height:50vh; 
+    background: rgb(218, 165, 32)
+}
+
+.div_d {
+    width:75vw;
+    height:50%; 
+    background: rgb(238, 130, 238)
+}
